@@ -1,2 +1,18 @@
 ﻿# Corona-app-auth
- Created a microservice architecture which supports authentication and authorization for existed corona virus app .
+An authentication management system  which supports authentication and authorization for existed corona virus app .
+
+Key Features:
+
+User Registration
+
+User Login and Logout
+
+Role-Based Access Control (RBAC)
+
+Integration with External Identity Providers
+
+JWT based auth token 
+
+Oauth for integration with popular third-party identity providers (e.g., Google, Facebook, GitHub) for seamless authentication.
+
+
